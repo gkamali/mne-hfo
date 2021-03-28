@@ -329,7 +329,7 @@ class LineLengthDetector(Detector):
 
     Compared to RMS detector, they utilize line-length metric.
 
-    Parameters
+    Parameters test
     ----------
     filter_band : tuple(float, float) | None
         Low cut-off frequency at index 0 and high cut-off frequency
